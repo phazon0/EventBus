@@ -1,6 +1,6 @@
 # EventBus
 
-## Javadocs can be viewed [here](https://pvpb0t.github.io/EventBus/javadoc)
+## Javadocs can be viewed [here](https://phazon0.github.io/EventBus/javadoc)
 
 ## Lightweight, Fast, and Compact
 
